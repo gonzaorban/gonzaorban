@@ -15,4 +15,5 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 <br><br>
 - 👨‍💻 Estudiante de 3er Año de Ingenieria en Sistemas en la UTN
+
 - 💬 Aca ya no se que poner.
