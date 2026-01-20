@@ -14,5 +14,68 @@
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
 
-- 👨‍💻 Estudiante de 3er Año de Ingenieria en Sistemas en la UTN.
-- 💬 Aca ya no se que poner.
+- 👨‍💻 Estudiante de 3er Año de Ingeniería en Sistemas en la UTN.
+- 💬 Interesado en Arquitectura de Software, Backend (NestJS) y Ciberseguridad.
+
+<br>
+
+<h2 align="left" font-weight="bold">Projects</h2>
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏉 Rugby Club Manager</h3>
+      <p align="center">
+        Aplicación web integral para la gestión de jugadores, partidos y estadísticas de club.
+        <br />
+        <br />
+        <strong>Tech Stack:</strong> NestJS, TypeScript, SQL.
+      </p>
+      <p align="center">
+        <a href="LINK_A_TU_REPO_RUGBY">🔎 Ver Código</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📦 E-commerce Logistics Microservice</h3>
+      <p align="center">
+        Módulo de logística escalable diseñado con arquitectura de microservicios y autenticación segura.
+        <br />
+        <br />
+        <strong>Tech Stack:</strong> NestJS, Next.js, Docker, Keycloak.
+      </p>
+      <p align="center">
+        <a href="LINK_A_TU_REPO_LOGISTICA">🔎 Ver Código</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🔐 Cybersecurity & CTF Writeups</h3>
+      <p align="center">
+        Colección de soluciones a retos de HackTheBox y análisis de vulnerabilidades web y binarias.
+        <br />
+        <br />
+        <strong>Tools:</strong> Burp Suite, GDB, Python.
+      </p>
+      <p align="center">
+        <a href="LINK_A_TUS_WRITEUPS">🔎 Ver Repo</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🗄️ Cloud DB Migration</h3>
+      <p align="center">
+        Implementación y migración de esquemas de bases de datos relacionales en la nube (Sakila DB).
+        <br />
+        <br />
+        <strong>Tech Stack:</strong> MariaDB, SQL.
+      </p>
+      <p align="center">
+        <a href="LINK_A_TU_REPO_DB">🔎 Ver Código</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false />
+</div>
