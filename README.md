@@ -67,7 +67,7 @@
       <p align="center">
         <a href="./HackTheBox_University_CTF_2025.pdf" target="_blank">📄 Ver PDF: HTB University 2025</a>
         <br>
-        <a href="./SoftwareSeguro_HackLab.pdf" target="_blank">📄 Ver PDF: Guía Conceptos & Desafíos</a>
+        <a href="./SoftwareSeguro_HackLab.pdf" target="_blank">📄 Ver PDF: SoftwareSeguro - HackLab</a>
       </p>
       <details>
         <summary><strong>Featured Techniques (Click to expand)</strong></summary>
