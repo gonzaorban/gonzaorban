@@ -15,7 +15,7 @@
 <h2 align="left" font-weight="bold">About me</h2>  
 
 - 👨‍💻 Estudiante de 3er Año de Ingeniería en Sistemas en la UTN.
-- 💬 Interesado en Arquitectura de Software, Backend (NestJS) y Ciberseguridad.
+- 💬 Interesado en Arquitectura de Software, Backend y Ciberseguridad.
 
 <br>
 
@@ -29,10 +29,10 @@
         Aplicación web integral para la gestión de jugadores, partidos y estadísticas de club.
         <br />
         <br />
-        <strong>Tech Stack:</strong> NestJS, TypeScript, SQL.
+        <strong>Tech Stack:</strong> Django, Next.js, PostgreSQL.
       </p>
       <p align="center">
-        <a href="LINK_A_TU_REPO_RUGBY">🔎 Ver Código</a>
+        <a href="https://github.com/JeronimoZapata/sixty-proyect">🔎 Ver Código</a>
       </p>
     </td>
     <td width="50%">
@@ -41,36 +41,55 @@
         Módulo de logística escalable diseñado con arquitectura de microservicios y autenticación segura.
         <br />
         <br />
-        <strong>Tech Stack:</strong> NestJS, Next.js, Docker, Keycloak.
+        <strong>Tech Stack:</strong> NestJS, Next.js, MySQL, Keycloak.
       </p>
       <p align="center">
-        <a href="LINK_A_TU_REPO_LOGISTICA">🔎 Ver Código</a>
+        <a href="https://github.com/FRRe-DS/2025-03-TPI">🔎 Ver Código</a>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+<td width="50%">
       <h3 align="center">🔐 Cybersecurity & CTF Writeups</h3>
       <p align="center">
-        Colección de soluciones a retos de HackTheBox y análisis de vulnerabilidades web y binarias.
+        Investigación y explotación de vulnerabilidades en entornos controlados (HTB, SoftwareSeguro).
         <br />
         <br />
-        <strong>Tools:</strong> Burp Suite, GDB, Python.
+        <strong>🛡️ Topics:</strong>
+        <br>
+        Binary Exploitation (Stack/Format String), Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography (RSA, Hashing), Reverse Engineering.
+        <br />
+        <br />
+        <strong>💻 Languages & Tools:</strong>
+        <br>
+        Python (Pwntools/Requests), SQL, Assembly (x64), Java, Burp Suite, GDB, ExifTool.
       </p>
       <p align="center">
-        <a href="LINK_A_TUS_WRITEUPS">🔎 Ver Repo</a>
+        <a href="./HackTheBox_University_CTF_2025.pdf" target="_blank">📄 Ver PDF: HTB University 2025</a>
+        <br>
+        <a href="./SoftwareSeguro_HackLab.pdf" target="_blank">📄 Ver PDF: Guía Conceptos & Desafíos</a>
       </p>
+      <details>
+        <summary><strong>Featured Techniques (Click to expand)</strong></summary>
+        <ul>
+          <li><strong>Web:</strong> Bypass de <code>is_admin()</code> en WordPress & RCE.</li>
+          <li><strong>Pwn:</strong> Inyección de Shellcode y manipulación de registros (EBX).</li>
+          <li><strong>SQLi:</strong> Inyección basada en booleanos y metadatos de imagen (SQLite/ExifTool).</li>
+          <li><strong>Crypto:</strong> Ataque de factor común en RSA y fuerza bruta offline de PINs con salting.</li>
+          <li><strong>Race Condition:</strong> Explotación de concurrencia con Turbo Intruder.</li>
+        </ul>
+      </details>
     </td>
     <td width="50%">
-      <h3 align="center">🗄️ Cloud DB Migration</h3>
+      <h3 align="center">🏆 ICPC - TAP</h3>
       <p align="center">
-        Implementación y migración de esquemas de bases de datos relacionales en la nube (Sakila DB).
+        Ejercicios de programación competitiva.
         <br />
         <br />
-        <strong>Tech Stack:</strong> MariaDB, SQL.
+        <strong>Tech Stack:</strong> Python.
       </p>
       <p align="center">
-        <a href="LINK_A_TU_REPO_DB">🔎 Ver Código</a>
+        <a href="https://github.com/gonzaorban/TAP">🔎 Ver Código</a>
       </p>
     </td>
   </tr>
