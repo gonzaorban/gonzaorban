@@ -64,6 +64,9 @@
         <br>
         Python (Pwntools/Requests), SQL, Assembly (x64), Java, Burp Suite, GDB, ExifTool.
       </p>
+      <p align="center">
+        <a href="https://github.com/gonzaorban/CTF-Writeups">🔎 Ver Código</a>
+      </p>
     </td>
     <td width="50%">
       <h3 align="center">🏆 ICPC - TAP</h3>
