@@ -64,21 +64,6 @@
         <br>
         Python (Pwntools/Requests), SQL, Assembly (x64), Java, Burp Suite, GDB, ExifTool.
       </p>
-      <p align="center">
-        <a href="./HackTheBox_University_CTF_2025.pdf" target="_blank">📄 Ver PDF: HTB University 2025</a>
-        <br>
-        <a href="./SoftwareSeguro_HackLab.pdf" target="_blank">📄 Ver PDF: SoftwareSeguro - HackLab</a>
-      </p>
-      <details>
-        <summary><strong>Featured Techniques (Click to expand)</strong></summary>
-        <ul>
-          <li><strong>Web:</strong> Bypass de <code>is_admin()</code> en WordPress & RCE.</li>
-          <li><strong>Pwn:</strong> Inyección de Shellcode y manipulación de registros (EBX).</li>
-          <li><strong>SQLi:</strong> Inyección basada en booleanos y metadatos de imagen (SQLite/ExifTool).</li>
-          <li><strong>Crypto:</strong> Ataque de factor común en RSA y fuerza bruta offline de PINs con salting.</li>
-          <li><strong>Race Condition:</strong> Explotación de concurrencia con Turbo Intruder.</li>
-        </ul>
-      </details>
     </td>
     <td width="50%">
       <h3 align="center">🏆 ICPC - TAP</h3>
