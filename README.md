@@ -60,9 +60,6 @@
         Binary Exploitation (Stack/Format String), Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography (RSA, Hashing), Reverse Engineering.
         <br />
         <br />
-        <strong>💻 Languages & Tools:</strong>
-        <br>
-        Python (Pwntools/Requests), SQL, Assembly (x64), Java, Burp Suite, GDB, ExifTool.
       </p>
       <p align="center">
         <a href="https://github.com/gonzaorban/CTF-Writeups">🔎 Ver Código</a>
