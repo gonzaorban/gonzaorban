@@ -24,9 +24,9 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">🏉 Rugby Club Manager</h3>
+      <h3 align="center">🏉 Sixty Club</h3>
       <p align="center">
-        Aplicación web integral para la gestión de jugadores, partidos y estadísticas de club.
+        Aplicación web integral para la gestión de jugadores, partidos y estadísticas de Sixty Club.
         <br />
         <br />
         <strong>Tech Stack:</strong> Django, Next.js, PostgreSQL.
