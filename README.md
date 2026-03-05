@@ -7,17 +7,56 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;AI%20Engineer;Always%20learning%20new%20things;Feel%20free%20to%20look%20around%20%F0%9F%91%80;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
-
 <img align="left" src = "https://user-images.githubusercontent.com/63050133/156777293-72a6e681-2582-4a9d-ad92-09d1181d47c7.gif" width = 50px height=50px>
 <h2 align="left" font-weight="bold">About me</h2>  
+
+<br>
 
 - 👨‍💻 Estudiante de 4to Año de Ingeniería en Sistemas en la UTN.
 - 💬 Interesado en Arquitectura de Software, Backend y Ciberseguridad.
 
 <br>
+<h2 align="center">🛡️ CTF & Cybersecurity Profiles</h2>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://tryhackme.com/p/gonzaorban">
+        <img 
+          src="https://tryhackme-badges.s3.amazonaws.com/gonzaorban.png"
+          alt="TryHackMe"
+          height="70"
+        >
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://app.hackthebox.com/profile/2634163">
+        <img 
+          src="https://www.hackthebox.eu/badge/image/2634163"
+          alt="HackTheBox"
+          height="70"
+        >
+      </a>
+    </td>
+  </tr>
+</table>
+<p align="center">
+
+  <a href="https://play.picoctf.org/users/gonzaorban">
+    <img 
+      src="https://img.shields.io/badge/picoCTF-Active_Player-4B275F?style=for-the-badge&logo=linux&logoColor=white"
+      alt="picoCTF"
+    >
+  </a>
+
+  <a href="https://app.softwareseguro.com.ar/ranking">
+    <img 
+      src="https://img.shields.io/badge/HackLab-UTN_FRC_Ranking-0A0A0A?style=for-the-badge&logo=hackaday&logoColor=orange"
+      alt="HackLab"
+    >
+  </a>
+
+</p>
 
 <h2 align="left" font-weight="bold">Projects</h2>
 
