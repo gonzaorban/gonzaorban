@@ -15,49 +15,6 @@
 - 👨‍💻 Estudiante de 4to Año de Ingeniería en Sistemas en la UTN.
 - 💬 Interesado en Arquitectura de Software, Backend y Ciberseguridad.
 
-<br>
-<h2 align="center">🛡️ CTF & Cybersecurity Profiles</h2>
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://tryhackme.com/p/gonzaorban">
-        <img 
-          src="https://tryhackme-badges.s3.amazonaws.com/gonzaorban.png"
-          alt="TryHackMe"
-          height="70"
-        >
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://app.hackthebox.com/profile/2634163">
-        <img 
-          src="https://www.hackthebox.eu/badge/image/2634163"
-          alt="HackTheBox"
-          height="70"
-        >
-      </a>
-    </td>
-  </tr>
-</table>
-<p align="center">
-
-  <a href="https://play.picoctf.org/users/gonzaorban">
-    <img 
-      src="https://img.shields.io/badge/picoCTF-Active_Player-4B275F?style=for-the-badge&logo=linux&logoColor=white"
-      alt="picoCTF"
-    >
-  </a>
-
-  <a href="https://app.softwareseguro.com.ar/ranking">
-    <img 
-      src="https://img.shields.io/badge/HackLab-UTN_FRC_Ranking-0A0A0A?style=for-the-badge&logo=hackaday&logoColor=orange"
-      alt="HackLab"
-    >
-  </a>
-
-</p>
-
 <h2 align="left" font-weight="bold">Projects</h2>
 
 <table width="100%">
