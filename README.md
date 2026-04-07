@@ -48,7 +48,7 @@
 <td width="50%">
       <h3 align="center">🔐 Cybersecurity & CTF Writeups</h3>
       <p align="center">
-        Investigación y explotación de vulnerabilidades en entornos controlados (HTB, SoftwareSeguro).
+        Investigación y explotación de vulnerabilidades en entornos controlados (TryHackMe, SoftwareSeguro, picoCTF, HTB).
         <br />
         <br />
         <strong>🛡️ Topics:</strong>
