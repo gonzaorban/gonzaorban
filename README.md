@@ -28,6 +28,7 @@
         <strong>Tech Stack:</strong> Django, Next.js, PostgreSQL.
       </p>
       <p align="center">
+         <a href="https://https://github.com/JeronimoZapata/sixty-project">🔒 Código Privado</a>
       </p>
     </td>
     <td width="50%">
