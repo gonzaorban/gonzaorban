@@ -28,7 +28,6 @@
         <strong>Tech Stack:</strong> Django, Next.js, PostgreSQL.
       </p>
       <p align="center">
-        <a href="https://github.com/JeronimoZapata/sixty-proyect">🔎 Ver Código</a>
       </p>
     </td>
     <td width="50%">
