@@ -48,12 +48,12 @@
 <td width="50%">
       <h3 align="center">🔐 Cybersecurity & CTF Writeups</h3>
       <p align="center">
-        Investigación y explotación de vulnerabilidades en entornos controlados (TryHackMe, SoftwareSeguro, picoCTF, HTB).
+        Investigación y explotación de vulnerabilidades en entornos controlados.
         <br />
         <br />
         <strong>🛡️ Topics:</strong>
         <br>
-        Binary Exploitation (Stack/Format String), Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography (RSA, Hashing), Reverse Engineering.
+        Binary Exploitation, Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography, Reverse Engineering.
         <br />
         <br />
       </p>
