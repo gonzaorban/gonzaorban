@@ -13,68 +13,53 @@
 <br>
 
 - 👨‍💻 Estudiante de 4to Año de Ingeniería en Sistemas en la UTN.
+- 🔬 Becario de Investigación CInApTIC.
 - 💬 Interesado en Arquitectura de Software, Backend y Ciberseguridad.
 
 <h2 align="left" font-weight="bold">Projects</h2>
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="center">🏉 Sixty Club</h3>
-      <p align="center">
-        Aplicación web integral para la gestión de jugadores, partidos y estadísticas de Sixty Club.
-        <br />
-        <br />
-        <strong>Tech Stack:</strong> Django, Next.js, PostgreSQL.
-      </p>
-      <p align="center">
-         <a href="https://github.com/JeronimoZapata/sixty-project">🔒 Código Privado</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">📦 E-commerce Logistics Microservice</h3>
-      <p align="center">
-        Módulo de logística escalable diseñado con arquitectura de microservicios y autenticación segura.
-        <br />
-        <br />
-        <strong>Tech Stack:</strong> NestJS, Next.js, MySQL, Keycloak.
-      </p>
-      <p align="center">
-        <a href="https://github.com/FRRe-DS/2025-03-TPI">🔎 Ver Código</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-<td width="50%">
-      <h3 align="center">🔐 Cybersecurity & CTF Writeups</h3>
-      <p align="center">
-        Investigación y explotación de vulnerabilidades en entornos controlados.
-        <br />
-        <br />
-        <strong>🛡️ Topics:</strong>
-        <br>
-        Binary Exploitation, Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography, Reverse Engineering.
-        <br />
-        <br />
-      </p>
-      <p align="center">
-        <a href="https://github.com/gonzaorban/CTF-Writeups">🔎 Ver Código</a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏆 ICPC - TAP</h3>
-      <p align="center">
-        Ejercicios de programación competitiva.
-        <br />
-        <br />
-        <strong>Tech Stack:</strong> Python.
-      </p>
-      <p align="center">
-        <a href="https://github.com/gonzaorban/TAP">🔎 Ver Código</a>
-      </p>
-    </td>
-  </tr>
-</table>
+### 🛡️ SME-Cyber
+Plataforma de autodiagnóstico de ciberseguridad para PyMEs, desarrollada en el marco de la beca CInApTIC. Scoring M-GAP determinístico, reportes y narrativa asistida por LLM.
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+
+🌐 **[Ver Deploy](https://cinaptic-ciberseguridad.app/)** · 🔒 Código privado
+
+### 🏉 Sixty Club
+Aplicación web integral para la gestión de jugadores, partidos y estadísticas de Sixty Club.
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+
+🌐 **[Ver Deploy](https://www.sixtyclub.win/)** · 🔒 Código privado
+
+### 📦 E-commerce Logistics Microservice
+Módulo de logística escalable diseñado con arquitectura de microservicios y autenticación segura.
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat&logo=keycloak&logoColor=white)
+
+🔎 **[Ver Código](https://github.com/FRRe-DS/2025-03-TPI)**
+
+### 🔐 Cybersecurity & CTF Writeups
+Investigación y explotación de vulnerabilidades en entornos controlados.
+
+**🛡️ Topics:** Binary Exploitation, Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography, Reverse Engineering.
+
+🔎 **[Ver Código](https://github.com/gonzaorban/CTF-Writeups)**
+
+### 🏆 ICPC - TAP
+Ejercicios de programación competitiva.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+🔎 **[Ver Código](https://github.com/gonzaorban/TAP)**
 
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&reversal=false />
