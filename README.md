@@ -48,9 +48,9 @@ Módulo de logística escalable diseñado con arquitectura de microservicios y a
 🔎 **[Ver Código](https://github.com/FRRe-DS/2025-03-TPI)**
 
 ### 🔐 Cybersecurity & CTF Writeups
-Investigación y explotación de vulnerabilidades en entornos controlados.
+Explotación de vulnerabilidades en entornos controlados.
 
-**🛡️ Topics:** Binary Exploitation, Web (IDOR, XSS, CSRF, SQLi, JWT), Cryptography, Reverse Engineering.
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 🔎 **[Ver Código](https://github.com/gonzaorban/CTF-Writeups)**
 
